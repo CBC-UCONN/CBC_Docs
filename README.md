@@ -1,2 +1,3 @@
 # CBC_Docs
-The CBC wiki
+Some documentation for the [UConn CBC](https://bioinformatics.uconn.edu/) and the Xanadu cluster is hosted on github. 
+You can find it through our [website](https://bioinformatics.uconn.edu/) or here on the [CBC wiki](https://github.com/CBC-UCONN/CBC_Docs.wiki.git)
